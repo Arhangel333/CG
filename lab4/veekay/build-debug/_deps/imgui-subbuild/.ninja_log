@@ -1,0 +1,37 @@
+# ninja log v5
+499	544	1765616385468542800	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-install	60b742ec7828a305
+59	343	0	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-update	e1f9aedae34090d4
+348	391	1765616385316123400	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-patch	e2b4ce80b5033cd6
+48	195	1765615908714165500	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-mkdir	8f416107a154de2e
+399	440	1765616385365065700	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-configure	b839669ac80c1c8e
+210	177572	1765616086090020000	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-download	3920ce02e9271095
+598	664	1765616385590328100	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-done	8d5ccf7acb5f69c4
+598	664	1765616385590328100	CMakeFiles/imgui-populate-complete	8d5ccf7acb5f69c4
+348	391	1765616385316123400	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-patch	e2b4ce80b5033cd6
+448	491	1765616385417387000	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-build	5ba79e629e3df525
+448	491	1765616385417387000	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-build	5ba79e629e3df525
+499	544	1765616385468542800	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-install	60b742ec7828a305
+598	664	1765616385590328100	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-done	8d5ccf7acb5f69c4
+48	195	1765615908714165500	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-mkdir	8f416107a154de2e
+598	664	1765616385590328100	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/imgui-subbuild/CMakeFiles/imgui-populate-complete	8d5ccf7acb5f69c4
+554	593	1765616385520540300	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-test	47c32badec6ad3a0
+399	440	1765616385365065700	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-configure	b839669ac80c1c8e
+554	593	1765616385520540300	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-test	47c32badec6ad3a0
+59	343	0	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-update	e1f9aedae34090d4
+210	177572	1765616086090020000	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-download	3920ce02e9271095
+57	306	0	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-update	e1f9aedae34090d4
+57	306	0	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-update	e1f9aedae34090d4
+312	349	1765616459189884000	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-patch	e2b4ce80b5033cd6
+312	349	1765616459189884000	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-patch	e2b4ce80b5033cd6
+359	397	1765616459237441900	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-configure	b839669ac80c1c8e
+359	397	1765616459237441900	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-configure	b839669ac80c1c8e
+405	445	1765616459285342300	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-build	5ba79e629e3df525
+405	445	1765616459285342300	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-build	5ba79e629e3df525
+457	496	1765616459335797000	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-install	60b742ec7828a305
+457	496	1765616459335797000	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-install	60b742ec7828a305
+509	551	1765616459390800400	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-test	47c32badec6ad3a0
+509	551	1765616459390800400	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-test	47c32badec6ad3a0
+563	623	1765616459464349900	CMakeFiles/imgui-populate-complete	8d5ccf7acb5f69c4
+563	623	1765616459464349900	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-done	8d5ccf7acb5f69c4
+563	623	1765616459464349900	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/imgui-subbuild/CMakeFiles/imgui-populate-complete	8d5ccf7acb5f69c4
+563	623	1765616459464349900	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-done	8d5ccf7acb5f69c4

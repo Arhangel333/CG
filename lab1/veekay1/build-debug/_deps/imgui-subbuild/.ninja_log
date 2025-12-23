@@ -1,0 +1,21 @@
+# ninja log v5
+53	216	1766234276410649300	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-mkdir	4bf6d23d08b72124
+53	216	1766234276410649300	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-mkdir	4bf6d23d08b72124
+232	56380	1766234332574174700	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-download	9dcedd0b7d0580bf
+232	56380	1766234332574174700	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-download	9dcedd0b7d0580bf
+56390	56685	0	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-update	80daa58e4462141f
+56390	56685	0	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-update	80daa58e4462141f
+56692	56736	1766234332931370100	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-patch	cdf0fa220cb466d8
+56692	56736	1766234332931370100	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-patch	cdf0fa220cb466d8
+56744	56783	1766234332977437500	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-configure	6eebf23c21a3e2ed
+56744	56783	1766234332977437500	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-configure	6eebf23c21a3e2ed
+56791	56827	1766234333023356400	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-build	97a44e8a1685fe8f
+56791	56827	1766234333023356400	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-build	97a44e8a1685fe8f
+56834	56869	1766234333064354600	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-install	d807cdc3060ae32b
+56834	56869	1766234333064354600	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-install	d807cdc3060ae32b
+56876	56914	1766234333109352600	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-test	b74c701cc9da0466
+56876	56914	1766234333109352600	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-test	b74c701cc9da0466
+56920	56982	1766234333177353500	CMakeFiles/imgui-populate-complete	88e1536b01e4fad8
+56920	56982	1766234333177353500	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-done	88e1536b01e4fad8
+56920	56982	1766234333177353500	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/imgui-subbuild/CMakeFiles/imgui-populate-complete	88e1536b01e4fad8
+56920	56982	1766234333177353500	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-done	88e1536b01e4fad8

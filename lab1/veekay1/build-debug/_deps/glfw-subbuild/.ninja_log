@@ -1,0 +1,21 @@
+# ninja log v5
+48	198	1766234249322546800	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	221988c66b90932d
+48	198	1766234249322546800	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	221988c66b90932d
+214	9897	1766234259022092400	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	a7b336a9307ebc69
+214	9897	1766234259022092400	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	a7b336a9307ebc69
+9903	10178	0	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	88b4d38562030857
+9903	10178	0	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	88b4d38562030857
+10185	10227	1766234259351114900	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	591ec6cc259a47a7
+10185	10227	1766234259351114900	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	591ec6cc259a47a7
+10234	10279	1766234259403117300	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	96f3fb7938c6510a
+10234	10279	1766234259403117300	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	96f3fb7938c6510a
+10285	10326	1766234259451116500	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	d0ee032a5c41f2f3
+10285	10326	1766234259451116500	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	d0ee032a5c41f2f3
+10335	10382	1766234259506116800	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	24f093c8101b7612
+10335	10382	1766234259506116800	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	24f093c8101b7612
+10393	10432	1766234259557118200	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	c6f386a65eea577d
+10393	10432	1766234259557118200	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	c6f386a65eea577d
+10438	10494	1766234259620114100	CMakeFiles/glfw-populate-complete	d0bcdf37cb8d82aa
+10438	10494	1766234259620114100	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	d0bcdf37cb8d82aa
+10438	10494	1766234259620114100	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/glfw-subbuild/CMakeFiles/glfw-populate-complete	d0bcdf37cb8d82aa
+10438	10494	1766234259620114100	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	d0bcdf37cb8d82aa

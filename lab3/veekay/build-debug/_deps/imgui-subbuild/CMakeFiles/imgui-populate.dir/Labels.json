@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/c/Users/Max Kar/Desktop/\u041c\u0410\u0418/CG/\u0430\u0440\u0445\u0438\u0432 \u0438 \u043e\u0442\u0447\u0435\u0442 \u043f\u043e \u0440\u0430\u0431\u043e\u0442\u0435/lab2/veekay/build-debug/_deps/imgui-subbuild/CMakeFiles/imgui-populate"
+		},
+		{
+			"file" : "/mnt/c/Users/Max Kar/Desktop/\u041c\u0410\u0418/CG/\u0430\u0440\u0445\u0438\u0432 \u0438 \u043e\u0442\u0447\u0435\u0442 \u043f\u043e \u0440\u0430\u0431\u043e\u0442\u0435/lab2/veekay/build-debug/_deps/imgui-subbuild/CMakeFiles/imgui-populate.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/Max Kar/Desktop/\u041c\u0410\u0418/CG/\u0430\u0440\u0445\u0438\u0432 \u0438 \u043e\u0442\u0447\u0435\u0442 \u043f\u043e \u0440\u0430\u0431\u043e\u0442\u0435/lab2/veekay/build-debug/_deps/imgui-subbuild/CMakeFiles/imgui-populate-complete.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/Max Kar/Desktop/\u041c\u0410\u0418/CG/\u0430\u0440\u0445\u0438\u0432 \u0438 \u043e\u0442\u0447\u0435\u0442 \u043f\u043e \u0440\u0430\u0431\u043e\u0442\u0435/lab2/veekay/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-build.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/Max Kar/Desktop/\u041c\u0410\u0418/CG/\u0430\u0440\u0445\u0438\u0432 \u0438 \u043e\u0442\u0447\u0435\u0442 \u043f\u043e \u0440\u0430\u0431\u043e\u0442\u0435/lab2/veekay/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-configure.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/Max Kar/Desktop/\u041c\u0410\u0418/CG/\u0430\u0440\u0445\u0438\u0432 \u0438 \u043e\u0442\u0447\u0435\u0442 \u043f\u043e \u0440\u0430\u0431\u043e\u0442\u0435/lab2/veekay/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-download.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/Max Kar/Desktop/\u041c\u0410\u0418/CG/\u0430\u0440\u0445\u0438\u0432 \u0438 \u043e\u0442\u0447\u0435\u0442 \u043f\u043e \u0440\u0430\u0431\u043e\u0442\u0435/lab2/veekay/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-install.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/Max Kar/Desktop/\u041c\u0410\u0418/CG/\u0430\u0440\u0445\u0438\u0432 \u0438 \u043e\u0442\u0447\u0435\u0442 \u043f\u043e \u0440\u0430\u0431\u043e\u0442\u0435/lab2/veekay/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/Max Kar/Desktop/\u041c\u0410\u0418/CG/\u0430\u0440\u0445\u0438\u0432 \u0438 \u043e\u0442\u0447\u0435\u0442 \u043f\u043e \u0440\u0430\u0431\u043e\u0442\u0435/lab2/veekay/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-patch.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/Max Kar/Desktop/\u041c\u0410\u0418/CG/\u0430\u0440\u0445\u0438\u0432 \u0438 \u043e\u0442\u0447\u0435\u0442 \u043f\u043e \u0440\u0430\u0431\u043e\u0442\u0435/lab2/veekay/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-test.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/Max Kar/Desktop/\u041c\u0410\u0418/CG/\u0430\u0440\u0445\u0438\u0432 \u0438 \u043e\u0442\u0447\u0435\u0442 \u043f\u043e \u0440\u0430\u0431\u043e\u0442\u0435/lab2/veekay/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"imgui-populate"
+		],
+		"name" : "imgui-populate"
+	}
+}

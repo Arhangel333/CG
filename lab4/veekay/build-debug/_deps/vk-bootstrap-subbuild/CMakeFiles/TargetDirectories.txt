@@ -1,0 +1,3 @@
+/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/vk-bootstrap-populate.dir
+/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,37 @@
+# ninja log v5
+69758	69802	1765616194403269900	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	81176490da806819
+69687	69745	1765616194344569400	glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	55a3c5a3ec887cfb
+69811	69855	1765616194455842400	glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	cb881dd02f306dda
+69921	69995	1765616194595822300	CMakeFiles/glm-populate-complete	d0f0ee6f315cd9fa
+69638	69678	1765616194277577600	glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	aebf59f549bffabe
+69758	69802	1765616194403269900	glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	81176490da806819
+69687	69745	1765616194344569400	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	55a3c5a3ec887cfb
+69921	69995	1765616194595822300	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	d0f0ee6f315cd9fa
+69921	69995	1765616194595822300	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/glm-subbuild/CMakeFiles/glm-populate-complete	d0f0ee6f315cd9fa
+69921	69995	1765616194595822300	glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	d0f0ee6f315cd9fa
+69811	69855	1765616194455842400	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	cb881dd02f306dda
+47	171	1765616087851060200	glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir	4d96d2bcab3ef6c9
+69338	69628	0	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	9a9b32d0282c75e6
+69864	69907	1765616194505821300	glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	6177cf5a11c7fac6
+47	171	1765616087851060200	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir	4d96d2bcab3ef6c9
+69864	69907	1765616194505821300	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	6177cf5a11c7fac6
+80	69326	1765616193926836500	glm-populate-prefix/src/glm-populate-stamp/glm-populate-download	178ba7e9ebb8d5fb
+80	69326	1765616193926836500	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-download	178ba7e9ebb8d5fb
+69638	69678	1765616194277577600	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	aebf59f549bffabe
+69338	69628	0	glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	9a9b32d0282c75e6
+70	338	0	glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	9a9b32d0282c75e6
+70	338	0	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	9a9b32d0282c75e6
+344	383	1765616460430287800	glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	aebf59f549bffabe
+344	383	1765616460430287800	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	aebf59f549bffabe
+390	436	1765616460481645100	glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	55a3c5a3ec887cfb
+390	436	1765616460481645100	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	55a3c5a3ec887cfb
+449	494	1765616460540055200	glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	81176490da806819
+449	494	1765616460540055200	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	81176490da806819
+502	543	1765616460588873700	glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	cb881dd02f306dda
+502	543	1765616460588873700	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	cb881dd02f306dda
+553	591	1765616460638810500	glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	6177cf5a11c7fac6
+553	591	1765616460638810500	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	6177cf5a11c7fac6
+598	661	1765616460707356400	CMakeFiles/glm-populate-complete	d0f0ee6f315cd9fa
+598	661	1765616460707356400	glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	d0f0ee6f315cd9fa
+598	661	1765616460707356400	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/glm-subbuild/CMakeFiles/glm-populate-complete	d0f0ee6f315cd9fa
+598	661	1765616460707356400	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	d0f0ee6f315cd9fa

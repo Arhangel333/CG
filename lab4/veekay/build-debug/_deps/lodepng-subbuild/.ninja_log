@@ -1,0 +1,37 @@
+# ninja log v5
+1894	1938	1765616388235942200	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-install	d49502d0c9d20355
+1944	1984	1765616388281641100	lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-test	55f0e5b4e71332a
+67	1738	0	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-update	743e7fd9bdb36b67
+1991	2053	1765616388351699000	CMakeFiles/lodepng-populate-complete	8ab1d969bebd9ae7
+56	189	1765616210885695900	lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-mkdir	ae6c582d55097b16
+1991	2053	1765616388351699000	lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-done	8ab1d969bebd9ae7
+1894	1938	1765616388235942200	lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-install	d49502d0c9d20355
+1744	1783	1765616388080882000	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-patch	a79d0806cb7811f4
+1744	1783	1765616388080882000	lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-patch	a79d0806cb7811f4
+1944	1984	1765616388281641100	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-test	55f0e5b4e71332a
+1839	1881	1765616388177689200	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-build	bb64361feda4897e
+56	189	1765616210885695900	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-mkdir	ae6c582d55097b16
+67	1738	0	lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-update	743e7fd9bdb36b67
+1991	2053	1765616388351699000	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/lodepng-subbuild/CMakeFiles/lodepng-populate-complete	8ab1d969bebd9ae7
+1991	2053	1765616388351699000	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-done	8ab1d969bebd9ae7
+197	4699	1765616215394771900	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-download	a7e9f977a967ef3d
+197	4699	1765616215394771900	lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-download	a7e9f977a967ef3d
+1839	1881	1765616388177689200	lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-build	bb64361feda4897e
+1790	1831	1765616388128686200	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-configure	6e545627840f5f97
+1790	1831	1765616388128686200	lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-configure	6e545627840f5f97
+56	8823	0	lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-update	743e7fd9bdb36b67
+56	8823	0	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-update	743e7fd9bdb36b67
+8829	8871	1765616479816736400	lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-patch	a79d0806cb7811f4
+8829	8871	1765616479816736400	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-patch	a79d0806cb7811f4
+8884	8927	1765616479873030200	lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-configure	6e545627840f5f97
+8884	8927	1765616479873030200	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-configure	6e545627840f5f97
+8940	8978	1765616479924191300	lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-build	bb64361feda4897e
+8940	8978	1765616479924191300	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-build	bb64361feda4897e
+8990	9033	1765616479977404700	lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-install	d49502d0c9d20355
+8990	9033	1765616479977404700	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-install	d49502d0c9d20355
+9045	9086	1765616480031969800	lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-test	55f0e5b4e71332a
+9045	9086	1765616480031969800	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-test	55f0e5b4e71332a
+9094	9157	1765616480103361100	CMakeFiles/lodepng-populate-complete	8ab1d969bebd9ae7
+9094	9157	1765616480103361100	lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-done	8ab1d969bebd9ae7
+9094	9157	1765616480103361100	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/lodepng-subbuild/CMakeFiles/lodepng-populate-complete	8ab1d969bebd9ae7
+9094	9157	1765616480103361100	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-done	8ab1d969bebd9ae7

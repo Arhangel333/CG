@@ -1,0 +1,84 @@
+# ninja log v5
+352	386	1766234338179053300	_deps/glfw-build/src/viewporter-client-protocol-code.h	cfae43b2890f0e3d
+352	386	1766234338179053300	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/glfw-build/src/viewporter-client-protocol-code.h	cfae43b2890f0e3d
+351	425	1766234338182050000	_deps/glfw-build/src/viewporter-client-protocol.h	295afb8e9cb7a66f
+351	425	1766234338182050000	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/glfw-build/src/viewporter-client-protocol.h	295afb8e9cb7a66f
+358	438	1766234338213576000	_deps/glfw-build/src/xdg-shell-client-protocol-code.h	a596f2f20bf43e92
+358	438	1766234338213576000	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/glfw-build/src/xdg-shell-client-protocol-code.h	a596f2f20bf43e92
+359	464	1766234338191051300	_deps/glfw-build/src/idle-inhibit-unstable-v1-client-protocol.h	4e0d3ab44518ffa8
+359	464	1766234338191051300	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/glfw-build/src/idle-inhibit-unstable-v1-client-protocol.h	4e0d3ab44518ffa8
+361	480	1766234338193052200	_deps/glfw-build/src/idle-inhibit-unstable-v1-client-protocol-code.h	9e12a8d2b1d72dcf
+361	480	1766234338193052200	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/glfw-build/src/idle-inhibit-unstable-v1-client-protocol-code.h	9e12a8d2b1d72dcf
+356	487	1766234338236632700	_deps/glfw-build/src/xdg-shell-client-protocol.h	38001f1163561e7
+356	487	1766234338236632700	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/glfw-build/src/xdg-shell-client-protocol.h	38001f1163561e7
+363	497	1766234338220573900	_deps/glfw-build/src/pointer-constraints-unstable-v1-client-protocol.h	69b85beb5990206e
+363	497	1766234338220573900	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/glfw-build/src/pointer-constraints-unstable-v1-client-protocol.h	69b85beb5990206e
+365	507	1766234338229589300	_deps/glfw-build/src/pointer-constraints-unstable-v1-client-protocol-code.h	77eb56dc7945a273
+365	507	1766234338229589300	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/glfw-build/src/pointer-constraints-unstable-v1-client-protocol-code.h	77eb56dc7945a273
+422	514	1766234338266181000	_deps/glfw-build/src/relative-pointer-unstable-v1-client-protocol.h	20536b16a8db6c42
+422	514	1766234338266181000	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/glfw-build/src/relative-pointer-unstable-v1-client-protocol.h	20536b16a8db6c42
+435	538	1766234338269181000	_deps/glfw-build/src/relative-pointer-unstable-v1-client-protocol-code.h	60b88cffa7e10937
+435	538	1766234338269181000	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/glfw-build/src/relative-pointer-unstable-v1-client-protocol-code.h	60b88cffa7e10937
+341	548	1766234338303180600	_deps/glfw-build/src/wayland-client-protocol.h	3cb3192e1550f10e
+341	548	1766234338303180600	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/glfw-build/src/wayland-client-protocol.h	3cb3192e1550f10e
+348	568	1766234338280181000	_deps/glfw-build/src/wayland-client-protocol-code.h	4783a78cf1f79d89
+348	568	1766234338280181000	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/glfw-build/src/wayland-client-protocol-code.h	4783a78cf1f79d89
+462	581	1766234338285184300	_deps/glfw-build/src/fractional-scale-v1-client-protocol.h	6563a47b29620fc7
+462	581	1766234338285184300	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/glfw-build/src/fractional-scale-v1-client-protocol.h	6563a47b29620fc7
+474	588	1766234338296184300	_deps/glfw-build/src/fractional-scale-v1-client-protocol-code.h	86a12caa22e651c5
+474	588	1766234338296184300	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/glfw-build/src/fractional-scale-v1-client-protocol-code.h	86a12caa22e651c5
+485	600	1766234338305179800	_deps/glfw-build/src/xdg-activation-v1-client-protocol.h	5493c7f66d1207f7
+485	600	1766234338305179800	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/glfw-build/src/xdg-activation-v1-client-protocol.h	5493c7f66d1207f7
+495	607	1766234338320180100	_deps/glfw-build/src/xdg-activation-v1-client-protocol-code.h	6497482129e5ba5e
+495	607	1766234338320180100	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/glfw-build/src/xdg-activation-v1-client-protocol-code.h	6497482129e5ba5e
+505	630	1766234338334189600	_deps/glfw-build/src/xdg-decoration-unstable-v1-client-protocol.h	809a37de4ac45bd1
+505	630	1766234338334189600	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/glfw-build/src/xdg-decoration-unstable-v1-client-protocol.h	809a37de4ac45bd1
+512	636	1766234338338178900	_deps/glfw-build/src/xdg-decoration-unstable-v1-client-protocol-code.h	cf5c885363697dbc
+512	636	1766234338338178900	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/glfw-build/src/xdg-decoration-unstable-v1-client-protocol-code.h	cf5c885363697dbc
+542	992	1766234338761512800	../shaders/shader.frag.spv	b853cc5a6e126db
+542	992	1766234338761512800	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/shaders/shader.frag.spv	b853cc5a6e126db
+564	1006	1766234338765514600	../shaders/shader.vert.spv	9c9c2f298db60960
+564	1006	1766234338765514600	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/shaders/shader.vert.spv	9c9c2f298db60960
+655	2359	1766234340114969900	CMakeFiles/veekay.dir/_deps/imgui-src/backends/imgui_impl_vulkan.cpp.o	9a0ff1534ddec0eb
+1000	2881	1766234340655068500	_deps/glfw-build/src/CMakeFiles/glfw.dir/context.c.o	38bb48077563b2eb
+1012	3048	1766234340687209800	_deps/glfw-build/src/CMakeFiles/glfw.dir/init.c.o	e239d1aa83bf4e57
+650	3538	1766234341264677800	CMakeFiles/veekay.dir/_deps/imgui-src/backends/imgui_impl_glfw.cpp.o	f8ba6560f5abab5
+2451	5094	1766234342830730700	_deps/glfw-build/src/CMakeFiles/glfw.dir/input.c.o	a9a4dbe16ca6299a
+3090	5612	1766234343391937000	_deps/glfw-build/src/CMakeFiles/glfw.dir/platform.c.o	62240e0a8d863698
+3019	5759	1766234343492172000	_deps/glfw-build/src/CMakeFiles/glfw.dir/monitor.c.o	ca8e8bf5943d9aca
+3657	6147	1766234343900681800	_deps/glfw-build/src/CMakeFiles/glfw.dir/vulkan.c.o	cb925df9f7635abd
+672	6657	1766234344426811900	CMakeFiles/veekay.dir/_deps/imgui-src/imgui_tables.cpp.o	57e169fb4b1bb69e
+5132	7312	1766234345069184100	_deps/glfw-build/src/CMakeFiles/glfw.dir/window.c.o	7f17fcee06b44361
+5621	7567	1766234345325226100	_deps/glfw-build/src/CMakeFiles/glfw.dir/egl_context.c.o	3fa2001d0ab33f4
+647	7688	1766234345420978900	CMakeFiles/veekay.dir/source/veekay.cpp.o	d6ae2d46606b6350
+5807	7826	1766234345495565600	_deps/glfw-build/src/CMakeFiles/glfw.dir/osmesa_context.c.o	16dc655413e3b4a1
+6197	7883	1766234345596268100	_deps/glfw-build/src/CMakeFiles/glfw.dir/null_init.c.o	50f4f69bf9d3d765
+6763	8321	1766234346071325000	_deps/glfw-build/src/CMakeFiles/glfw.dir/null_monitor.c.o	42e38b32a52ce0e1
+668	8633	1766234346403480900	CMakeFiles/veekay.dir/_deps/imgui-src/imgui_draw.cpp.o	a0f46985bdae055b
+7350	9147	1766234346913532700	_deps/glfw-build/src/CMakeFiles/glfw.dir/null_window.c.o	ec29cd5a717a9c83
+7589	9260	1766234346989224300	_deps/glfw-build/src/CMakeFiles/glfw.dir/null_joystick.c.o	72e30035bb081176
+7793	9416	1766234347171634300	_deps/glfw-build/src/CMakeFiles/glfw.dir/posix_module.c.o	da7dd67cc0fe5e51
+7842	9476	1766234347245291800	_deps/glfw-build/src/CMakeFiles/glfw.dir/posix_time.c.o	8b86f8def2bc860f
+674	9546	1766234347294354000	CMakeFiles/veekay.dir/_deps/imgui-src/imgui_widgets.cpp.o	23c2fa501f9ccb60
+7898	9619	1766234347382447400	_deps/glfw-build/src/CMakeFiles/glfw.dir/posix_thread.c.o	7c2858a47a51b0e8
+8336	10355	1766234348134784400	_deps/glfw-build/src/CMakeFiles/glfw.dir/x11_init.c.o	ca1266f6d3ec3c41
+8641	10420	1766234348167850000	_deps/glfw-build/src/CMakeFiles/glfw.dir/x11_monitor.c.o	a6b74d7e7c9009ff
+528	10474	1766234348177377700	_deps/vk-bootstrap-build/CMakeFiles/vk-bootstrap.dir/src/VkBootstrap.cpp.o	8c732feed910f8f1
+9284	10582	1766234348345573400	_deps/glfw-build/src/CMakeFiles/glfw.dir/xkb_unicode.c.o	cb23d26176c36e3e
+9426	10825	1766234348596227300	_deps/glfw-build/src/CMakeFiles/glfw.dir/glx_context.c.o	28790bf674b27d32
+9567	10925	1766234348707905400	_deps/glfw-build/src/CMakeFiles/glfw.dir/wl_monitor.c.o	4162923ebc18c0e3
+9173	11014	1766234348786027600	_deps/glfw-build/src/CMakeFiles/glfw.dir/x11_window.c.o	40123d2013d39577
+663	11101	1766234348867539200	CMakeFiles/veekay.dir/_deps/imgui-src/imgui.cpp.o	39ad84ebcddc6503
+9501	11238	1766234349013381700	_deps/glfw-build/src/CMakeFiles/glfw.dir/wl_init.c.o	5a64f260b6c8da17
+10438	11505	1766234349287146200	_deps/glfw-build/src/CMakeFiles/glfw.dir/posix_poll.c.o	94854baae1ba54e9
+10369	11560	1766234349348147900	_deps/glfw-build/src/CMakeFiles/glfw.dir/linux_joystick.c.o	16c966fc8aff5ba6
+9638	11631	1766234349410145400	_deps/glfw-build/src/CMakeFiles/glfw.dir/wl_window.c.o	12f677e419372379
+10532	12943	1766234350734025300	_deps/vk-bootstrap-build/libvk-bootstrap.a	f3b1e43d918d1144
+11643	13591	1766234351380244800	_deps/glfw-build/src/libglfw3.a	f15f1465488b08d6
+10598	13824	1766234351605247500	testbed/CMakeFiles/testbed.dir/main.cpp.o	4a59c405b10b0ae4
+13601	16795	1766234354586864000	libveekay.a	4292c4929ecfe10c
+16797	19615	1766234357395364400	testbed/testbed	af9b6af36005583c
+505	3068	1766234859696757400	testbed/CMakeFiles/testbed.dir/main.cpp.o	4a59c405b10b0ae4
+3078	5975	1766234862608763600	testbed/testbed	af9b6af36005583c
+461	3486	1766235350066695800	testbed/CMakeFiles/testbed.dir/main.cpp.o	4a59c405b10b0ae4
+3501	6577	1766235353160621200	testbed/testbed	af9b6af36005583c

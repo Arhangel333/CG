@@ -1,0 +1,21 @@
+# ninja log v5
+46	186	1766234270305547200	vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-mkdir	27ed675519437ee3
+46	186	1766234270305547200	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-mkdir	27ed675519437ee3
+200	4637	1766234274758568300	vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-download	f961a15da5dbfe85
+200	4637	1766234274758568300	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-download	f961a15da5dbfe85
+4649	4924	0	vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-update	912cc74cd7718b39
+4649	4924	0	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-update	912cc74cd7718b39
+4929	4965	1766234275087235900	vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-patch	d45c659dbbe9c0e3
+4929	4965	1766234275087235900	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-patch	d45c659dbbe9c0e3
+4971	5020	1766234275139060500	vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-configure	fce268b83ef49fcd
+4971	5020	1766234275139060500	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-configure	fce268b83ef49fcd
+5031	5074	1766234275193060700	vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-build	cae96c67f49d62fe
+5031	5074	1766234275193060700	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-build	cae96c67f49d62fe
+5082	5125	1766234275245149500	vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-install	568691a71703550a
+5082	5125	1766234275245149500	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-install	568691a71703550a
+5135	5177	1766234275297291500	vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-test	c226caaf4dca0397
+5135	5177	1766234275297291500	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-test	c226caaf4dca0397
+5184	5254	1766234275373960500	CMakeFiles/vk-bootstrap-populate-complete	d18183850082c15d
+5184	5254	1766234275373960500	vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-done	d18183850082c15d
+5184	5254	1766234275373960500	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/vk-bootstrap-populate-complete	d18183850082c15d
+5184	5254	1766234275373960500	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/CG/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-done	d18183850082c15d

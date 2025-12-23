@@ -1,0 +1,21 @@
+# ninja log v5
+51	185	1766236251050314700	lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-mkdir	fb234041a516646f
+51	185	1766236251050314700	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/lab2/veekay/build-debug/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-mkdir	fb234041a516646f
+193	3301	1766236254166813500	lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-download	f49a9fb73227c381
+193	3301	1766236254166813500	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/lab2/veekay/build-debug/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-download	f49a9fb73227c381
+3308	5164	0	lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-update	e0156dfab9749ca
+3308	5164	0	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/lab2/veekay/build-debug/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-update	e0156dfab9749ca
+5169	5212	1766236256076775400	lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-patch	9d49600233637271
+5169	5212	1766236256076775400	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/lab2/veekay/build-debug/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-patch	9d49600233637271
+5222	5265	1766236256127775600	lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-configure	a23afaee06c5ab6b
+5222	5265	1766236256127775600	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/lab2/veekay/build-debug/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-configure	a23afaee06c5ab6b
+5274	5329	1766236256193458000	lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-build	b5e6cca823d5435e
+5274	5329	1766236256193458000	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/lab2/veekay/build-debug/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-build	b5e6cca823d5435e
+5342	5393	1766236256256774700	lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-install	36a4ef4926d9f2b1
+5342	5393	1766236256256774700	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/lab2/veekay/build-debug/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-install	36a4ef4926d9f2b1
+5403	5450	1766236256313772200	lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-test	aeddfbd685960f3c
+5403	5450	1766236256313772200	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/lab2/veekay/build-debug/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-test	aeddfbd685960f3c
+5459	5578	1766236256442774000	CMakeFiles/lodepng-populate-complete	86b259fd3f79f251
+5459	5578	1766236256442774000	lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-done	86b259fd3f79f251
+5459	5578	1766236256442774000	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/lab2/veekay/build-debug/_deps/lodepng-subbuild/CMakeFiles/lodepng-populate-complete	86b259fd3f79f251
+5459	5578	1766236256442774000	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/lab2/veekay/build-debug/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-done	86b259fd3f79f251

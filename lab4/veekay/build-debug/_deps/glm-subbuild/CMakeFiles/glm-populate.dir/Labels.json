@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/c/Users/Max Kar/Desktop/\u041c\u0410\u0418/CG/4/veekay/build-debug/_deps/glm-subbuild/CMakeFiles/glm-populate"
+		},
+		{
+			"file" : "/mnt/c/Users/Max Kar/Desktop/\u041c\u0410\u0418/CG/4/veekay/build-debug/_deps/glm-subbuild/CMakeFiles/glm-populate.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/Max Kar/Desktop/\u041c\u0410\u0418/CG/4/veekay/build-debug/_deps/glm-subbuild/CMakeFiles/glm-populate-complete.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/Max Kar/Desktop/\u041c\u0410\u0418/CG/4/veekay/build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-build.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/Max Kar/Desktop/\u041c\u0410\u0418/CG/4/veekay/build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/Max Kar/Desktop/\u041c\u0410\u0418/CG/4/veekay/build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-download.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/Max Kar/Desktop/\u041c\u0410\u0418/CG/4/veekay/build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-install.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/Max Kar/Desktop/\u041c\u0410\u0418/CG/4/veekay/build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/Max Kar/Desktop/\u041c\u0410\u0418/CG/4/veekay/build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/Max Kar/Desktop/\u041c\u0410\u0418/CG/4/veekay/build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-test.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/Max Kar/Desktop/\u041c\u0410\u0418/CG/4/veekay/build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glm-populate"
+		],
+		"name" : "glm-populate"
+	}
+}

@@ -1,0 +1,14 @@
+# Target labels
+ vk-bootstrap-populate
+# Source files and their labels
+/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/vk-bootstrap-populate
+/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/vk-bootstrap-populate.rule
+/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/vk-bootstrap-populate-complete.rule
+/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-build.rule
+/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-configure.rule
+/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-download.rule
+/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-install.rule
+/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-mkdir.rule
+/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-patch.rule
+/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-test.rule
+/mnt/c/Users/Max Kar/Desktop/МАИ/CG/4/veekay/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-update.rule

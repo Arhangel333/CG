@@ -1,0 +1,21 @@
+# ninja log v5
+43	191	1766236195413054200	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-mkdir	fa063b34ef9dd703
+43	191	1766236195413054200	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/lab2/veekay/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-mkdir	fa063b34ef9dd703
+206	54282	1766236249505666300	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-download	d1a4a6a31098322d
+206	54282	1766236249505666300	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/lab2/veekay/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-download	d1a4a6a31098322d
+54288	54553	0	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-update	972b9ed865ec6c0d
+54288	54553	0	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/lab2/veekay/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-update	972b9ed865ec6c0d
+54558	54601	1766236249822294300	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-patch	56f38a31291563de
+54558	54601	1766236249822294300	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/lab2/veekay/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-patch	56f38a31291563de
+54613	54654	1766236249875752700	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-configure	7f05112c8f62fe20
+54613	54654	1766236249875752700	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/lab2/veekay/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-configure	7f05112c8f62fe20
+54660	54704	1766236249925344400	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-build	790cf1a3b5352de1
+54660	54704	1766236249925344400	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/lab2/veekay/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-build	790cf1a3b5352de1
+54713	54755	1766236249976977500	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-install	cfe20690f5f71f28
+54713	54755	1766236249976977500	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/lab2/veekay/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-install	cfe20690f5f71f28
+54763	54809	1766236250030544000	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-test	d49a41f3fae137a1
+54763	54809	1766236250030544000	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/lab2/veekay/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-test	d49a41f3fae137a1
+54819	54885	1766236250106847600	CMakeFiles/imgui-populate-complete	f92eecf063b192b0
+54819	54885	1766236250106847600	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-done	f92eecf063b192b0
+54819	54885	1766236250106847600	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/lab2/veekay/build-debug/_deps/imgui-subbuild/CMakeFiles/imgui-populate-complete	f92eecf063b192b0
+54819	54885	1766236250106847600	/mnt/c/Users/Max Kar/Desktop/МАИ/CG/архив и отчет по работе/lab2/veekay/build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-done	f92eecf063b192b0
